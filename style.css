@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center; 
+}
+article {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+article img {
+  margin: auto;
+  display: block;
+}
