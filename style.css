@@ -69,3 +69,15 @@ article img {
 .primary-header nav a:hover {
   border-bottom-color: currentColor;  
 }
+
+.footer{
+  height: 60px;
+  width: 100%;
+  background-color: royalblue;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+
+}
